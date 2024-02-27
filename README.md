@@ -1,7 +1,5 @@
 
-<div>
-[bocastle github stats](https://github-readme-stats.vercel.app/api?username=bocastle&show_icons=true&theme=radical)
-</div>
+
 
 <div align=center>
 
