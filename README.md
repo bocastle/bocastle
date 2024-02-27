@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=Hello%World!&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=Hello%World!)
 
 
 <div align=center>
