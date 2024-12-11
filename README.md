@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bocastle&show_icons=true&theme=material-palenight)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bocastle&hide_progress=true)
 
 <div align=center>
 
