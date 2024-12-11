@@ -2,7 +2,7 @@
 <div align=center>
 
 <div align=center>
-    <a href="https://castle-portfolio.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F;Welcome+to+bocastle+GitHub;God+bless+you" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=329&lines=Welcome+to+bocastle+GitHub;Happy+End+of+the+Year!;God+bless+you+%F0%9F%8E%81" alt="Typing SVG" /></a>
 </div>
 
 <!--
