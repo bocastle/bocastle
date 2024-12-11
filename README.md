@@ -4,10 +4,9 @@
     <img height=200 align="center" src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Hello%World!" />
   </div>
 
-
-<p align="center">
- Hi there 👋
-</p>
+<div align=center>
+    <a href="https://castle-portfolio.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F;Welcome+to+bocastle+GitHub;God+bless+you" alt="Typing SVG" /></a>
+</div>
 
 <!--
 Here are some ideas to get you started:
