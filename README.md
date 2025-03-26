@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   </div>
 
   <div align="center">  
-  <img align="center" src="https://hits.sh/github.com/bocastle.svg?label=welecom&color=8542e0" />
+  <a href="https://hits.sh/github.com/bocastle/"> <img align="center" src="https://hits.sh/github.com/bocastle.svg?label=welecom&color=8542e0" /> </a>
   </div>
 
 
