@@ -28,6 +28,9 @@ Here are some ideas to get you started:
   </div>
 
 
+### 🐍 Snake 활동 그래프
+
+  ![snake gif](https://github.com/bocastle/bocastle/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
