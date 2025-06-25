@@ -1,7 +1,7 @@
 
-<div align=center>
+<div style="text-align: center;">
 
-<div align=center>
+<div style="text-align: center;">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=329&lines=Welcome+to+bocastle+GitHub;Happy+End+of+the+Year!;God+bless+you+%F0%9F%8E%81" alt="Typing SVG" />
 </div>
 
@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  <div>
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bocastle&rank_icon=github&theme=material-palenight" />
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bocastle&layout=compact" />
+  <div style="text-align: center;">
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=bocastle&rank_icon=github&theme=material-palenight" />
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=bocastle&layout=compact" />
   </div>
 
-  <div align="center">  
-  <a href="https://hits.sh/github.com/bocastle/"> <img align="center" src="https://hits.sh/github.com/bocastle.svg?label=welecom&color=8542e0" /> </a>
+  <div style="text-align: center;">  
+  <a href="https://hits.sh/github.com/bocastle/"> <img src="https://hits.sh/github.com/bocastle.svg?label=welecom&color=8542e0"/> </a>
   </div>
 
 
